@@ -1,0 +1,25 @@
+{
+  "name": "bsync",
+  "version": "0.1.0",
+  "description": "B. Synchronized",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fzaker/bsync.git"
+  },
+  "keywords": [
+    "ssh",
+    "kvm",
+    "sync",
+    "booking.com"
+  ],
+  "author": "Farshid Zaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fzaker/bsync/issues"
+  },
+  "homepage": "https://github.com/fzaker/bsync#readme"
+}
